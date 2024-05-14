@@ -11,3 +11,14 @@ We decided that the most effective visualization for answering this question wou
 
 ## Interaction Techniques
 We decided to use panning and zooming to allow the viewer to easily zoom into specific countries, and move between different parts of the globe. We also added tooltips so that the viewer and gain additional understanding of the country’s statistics, such as the name, and how much of the happiness index is explained GDP per capita, life expectancy, or freedom to make choices. Adding this information allows the viewer to more comprehensively understand the factors behind a country’s happiness ranking. 
+
+## Design Choices and Teamwork
+We decided to do a visualization using a map from the beginning, but we weren’t sure what our data set would be. Once we found the happiness dataset, we collaborated on how we wanted to approach the design aesthetics. We also worked together to decide what additional information we would want to provide with the tooltips.
+
+## Division of Labor
+* Niha suggested the map visualization and obtained the dataset containing the happiness levels of countries.
+* FILL IN LATER
+* Niha completed the write-up once the visualization had been finalized.
+
+## Challenges
+We mainly faced challenges with turning the data into our vision for the visualization. The whole project needed a lot of data cleanings and collaboration in order to create an engaging and aesthetic visualization.  
